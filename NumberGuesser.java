@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
 /**
- * A basic Number Guesser game.
+ * A basic Number Guesser game  kjasdlj.
  *
  * @author David Herring
  * @version 3/11/19
  */
-public class NumberGuesser
+public class NumberGuesser 
 {
     private static Scanner kb = new Scanner(System.in);
     
